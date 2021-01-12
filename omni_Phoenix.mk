@@ -33,6 +33,6 @@ $(call inherit-product, vendor/omni/config/gsm.mk)
 PRODUCT_DEVICE := Phoenix
 PRODUCT_NAME := omni_Phoenix
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := samsung
+PRODUCT_MODEL := SM-G6200
 PRODUCT_MANUFACTURER := samsung
-PRODUCT_RELEASE_NAME := samsung samsung
+PRODUCT_RELEASE_NAME := samsung SM-G6200
